@@ -1,6 +1,6 @@
 <h2> Hi, I'm Wale Agboola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="http://www.sentierinc.com/images/logo.png" width="230">
-<p><em>Software Developer at <a href="http://www.unb.br">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
+
+<p><em>Software Developer at <a href="http://www.sentierinc.com/">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
 </em></p>
 
 [![Linkedin: w4l3](https://img.shields.io/badge/-w4l3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/w4l3/)](https://www.linkedin.com/in/w4l3/)
