@@ -1,6 +1,6 @@
 <h2> Hi, I'm Wale Agboola </h2>
 
-<p><em>Software Developer at <a href="http://www.sentierinc.com/" target="_blank">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
+<p><em>Software Developer at <a href="http://www.sentierinc.com/" target="_blank">Sentier Systems Inc </a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
 </em></p>
 
 [![Linkedin: w4l3](https://img.shields.io/badge/-w4l3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/w4l3/)](https://www.linkedin.com/in/w4l3/)
@@ -14,7 +14,7 @@
 const wale = {
   pronouns: "he" | "him",
   code: [C#, Java, Javascript, HTML, CSS],
-  tools: [.NET, Docker],
+  tools: [.NET, Eclipse, VS Code],
   architecture: ["event-driven", "natrual language processing"],
   challenge: "When I am not working, I will try to solve a random coding problem on Leetcode"
 }
