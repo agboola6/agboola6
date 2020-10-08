@@ -1,9 +1,10 @@
 <h2> Hi, I'm Wale Agboola </h2>
 
-<p><em>Software Developer at <a href="http://www.sentierinc.com/">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
+<p><em>Software Developer at <a href="http://www.sentierinc.com/" target="_blank">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
 </em></p>
 
-[![Linkedin: w4l3](https://img.shields.io/badge/-w4l3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/w4l3/)](https://www.linkedin.com/in/w4l3/)
+[![Linkedin: w4l3](https://img.shields.io/badge/-w4l3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/w4l3/)](https://www.linkedin.com/in/w4l3/){:target="_blank"}
+
 [![GitHub agboola6](https://img.shields.io/github/followers/agboola6?label=follow&style=social)](https://github.com/agboola6)
 
 
