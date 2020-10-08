@@ -1,4 +1,4 @@
-<h2> Hi, I'm Wale Agboola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Wale Agboola </h2>
 
 <p><em>Software Developer at <a href="http://www.sentierinc.com/">Sentier Systems Inc</a><img src="http://www.sentierinc.com/images/logo.png" width="30"></br>
 </em></p>
