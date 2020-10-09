@@ -16,7 +16,8 @@ const wale = {
   code: [C#, Java, Javascript, HTML, CSS],
   tools: [.NET, Eclipse, VS Code],
   architecture: ["event-driven", "natrual language processing"],
-  challenge: "When I am not working, I will try to solve a random coding problem on Leetcode"
+  challenge: "When I am not working, I will try to solve a random coding problem on Leetcode",
+  currently learning: [React, Node]
 }
 ```
 
